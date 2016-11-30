@@ -1,3 +1,6 @@
+*** rubyinstaller-2.3.1.exe *** <br/>
+*** DevKit-mingw64-32-4.7.2-20130224-1151-sfx.exe ***
+
 > ruby dk.rb init <br />
 
 <p align="left">
@@ -8,6 +11,12 @@
 
 <p align="left">
   <img alt="测试图片" src="jekyll-imgs/step2.png">
+</p>
+
+> 如果这里出现错误，查看D:\DevKit\config.yml  
+
+<p align="left">
+  <img alt="测试图片" src="jekyll-imgs/error2.png">
 </p>
 
 > gem sources -l
