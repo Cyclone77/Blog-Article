@@ -97,6 +97,8 @@
   <img alt="测试图片" src="jekyll-imgs/step15.png">
 </p>
 
+> http://127.0.0.1:4000/ 访问如下
+
 <p align="left">
   <img alt="测试图片" src="jekyll-imgs/step16.png">
 </p>
